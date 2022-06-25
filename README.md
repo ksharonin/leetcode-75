@@ -5,4 +5,6 @@ Repo of my Leetcode 75 Challenge progress! Motivating myself to practice daily a
 | # |  Title | Solution | Difficulty |
 |  --- | --- | --- | --- |
 |1|Sum of 1D array| [java](https://github.com/ksharonin/leetcode-75/blob/main/day-1/sum-1D-array.java) |Easy| |
-|2|Find pivot index|[py](./leetcode_py/Add%20Two%20Numbers.py) [js](./leetcode_js/Add%20Two%20Numbers.js) [java](./leetcode_java/add-two-numbers/Solution.java)|Medium| |
+|2|Find pivot index|[java](https://github.com/ksharonin/leetcode-75/blob/main/day-1/find-pivot-index.java) |Easy| |
+|3|Isomorphic strings|[python](https://github.com/ksharonin/leetcode-75/blob/main/day-2/isomorphic-strings.py) |Easy| |
+|4|Is subsequence|[python](https://github.com/ksharonin/leetcode-75/blob/main/day-2/is-subsequence.py) |Easy| |
