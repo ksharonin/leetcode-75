@@ -16,7 +16,7 @@ class Solution(object):
         
         # check order & add if s==t appears
         # advance pointers when valid == shows
-        while i < len(s) and j < len(t):
+        while j < len(t) and i < len(s):
             if s[i] == t[j]:
                 i += 1
             j += 1
