@@ -9,3 +9,4 @@ Repo of my Leetcode 75 Challenge progress! Motivating myself to practice daily a
 |3|Isomorphic strings|[python](https://github.com/ksharonin/leetcode-75/blob/main/day-2/isomorphic-strings.py) |Easy| |
 |4|Is subsequence|[python](https://github.com/ksharonin/leetcode-75/blob/main/day-2/is-subsequence.py) |Easy| |
 |5|Merge two sorted lists|[python](https://github.com/ksharonin/leetcode-75/blob/main/day-3/merge-two-sorted-lists.py) |Easy| |
+|6|Reverse linked list|[python](https://github.com/ksharonin/leetcode-75/blob/main/day-3/reverse-linked-list.py) |Easy| | 
